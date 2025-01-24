@@ -1,4 +1,0 @@
-User-agent: *
-Disallow:
-
-Sitemap: https://www.cs.toronto.edu//~luzhc/sitemap.xml
