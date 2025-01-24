@@ -14,13 +14,13 @@ I mentor graduate and undergraduate students, who are passionate about inventing
 
 Yu Zhang
 
-Qian Wan
+[Qian Wan](https://llewynwan.github.io/)
 
 Siying Hu
 
-Piaohong Wang
+[Piaohong Wang](https://sites.google.com/view/wamgpiaohong/homepage)
 
-Huanchen Wang
+[Huanchen Wang](https://wanghchen.github.io/)
 
 Zhiyang Wu
 
