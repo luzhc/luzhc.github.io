@@ -46,6 +46,7 @@ jobs:
       - name: Build with Jekyll
         # Outputs to the './_site' directory by default
         run: |
+          sudo apt-get update && sudo apt-get install -y imagemagick
           pip3 install --upgrade jupyter
           bundle exec jekyll build --baseurl "${{ steps.pages.outputs.base_path }}"
         env:
@@ -53,6 +54,11 @@ jobs:
       - name: Upload artifact
         # Automatically uploads an artifact from the './_site' directory by default
         uses: actions/upload-pages-artifact@v3
+      # - name: Deploy 🚀
+      #   if: github.event_name != 'pull_request'
+      #   uses: JamesIves/github-pages-deploy-action@v4
+      #   with:
+      #     folder: _site
 
   # Deployment job
   deploy:
