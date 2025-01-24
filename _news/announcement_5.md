@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Six papers accepted to ACM CHI 2023. Congrats to my students and co-authors!🎉🎉
+Six papers accepted to ACM CHI 2023. Congrats to my students and co-authors!
