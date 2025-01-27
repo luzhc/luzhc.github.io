@@ -28,7 +28,7 @@ Jian Ma
 
 Run Yang
 
-Luoying Lin
+[Luoying Lin](https://luoying0.com)
 
 ## Research Assistants/Interns
 
