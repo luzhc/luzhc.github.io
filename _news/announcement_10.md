@@ -1,14 +1,14 @@
 ---
 layout: post
 title: Five papers accepted to ACM CSCW 2025. Congrats to my students, interns and co-authors!
-date: 2025-01-19 15:59:00-0400
+date: 2025-02-14 15:59:00-0400
 inline: false
 related_posts: false
 ---
 
 In 2024, I have mentored or co-authored 8 papers that have been accepted to CHI 2025. 
 
-- **SpeechCap: Leveraging Playful Impact Captions to Facilitate Interpersonal Communication in Social Virtual Reality** by Yu Zhang, Yi Wen, Siying Hu, and Zhicong Lu
+- **SpeechCap: Leveraging Playful Impact Captions to Facilitate Interpersonal Communication in Social Virtual Reality** by Yu Zhang, Yi Wen, Siying Hu, and 2
 
 - **"Online Game Players on Peer-to-Peer Trading Platform: An Infrastructure Perspective** by Ken Piaohong Wang, Yao Lyu, and Zhicong Lu
 
