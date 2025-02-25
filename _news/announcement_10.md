@@ -6,7 +6,7 @@ inline: false
 related_posts: false
 ---
 
-In 2024, I have mentored or co-authored 8 papers that have been accepted to CHI 2025. 
+In 2024, I have mentored or co-authored another 5 papers that have been accepted to CSCW 2025. 
 
 - **SpeechCap: Leveraging Playful Impact Captions to Facilitate Interpersonal Communication in Social Virtual Reality** by Yu Zhang, Yi Wen, Siying Hu, and Zhicong Lu
 
