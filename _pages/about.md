@@ -20,13 +20,11 @@ I’m Zhicong Lu (陆志聪, Caleb), an Assistant Professor of Computer Science 
 
 Prior to joining GMU, I was an Assistant Professor at [the Department of Computer Science](https://www.cs.cityu.edu.hk/){:target="\_blank"}, [City University of Hong Kong](https://www.cityu.edu.hk/){:target="\_blank"}. I finished my PhD in Computer Science at the University of Toronto under the supervision of Professor <a target="_blank" href="http://www.dgp.toronto.edu/~dwigdor/">Daniel Wigdor</a>. Previously I was a Master of Interdisciplinary Studies of Information and Art Design at Tsinghua University, China, supervised by Professor <a target="_blank" href="http://www.x-studio.org.cn/~yqxu">Ying-Qing Xu</a> and Professor <a target="_blank" href="http://media.cs.tsinghua.edu.cn/~pervasive/shiyc/">Yuanchun Shi</a>. Before starting my master, I had a bachelor of Electronic Engineering and Game Design at Tsinghua University.
 
-For more information, see my [CV](assets/pdf/Zhicong_Lu_CV.pdf).
-
 ---
 
-I am looking for talented and highly motivated PhD students and RAs/interns who are interested in social computing and computational social science to join my group at **George Mason University**, starting in 2025. 
+I am looking for talented and highly motivated PhD students and RAs/interns who are interested in social computing and computational social science to join [DEER Lab](https://deerlab.vercel.app/) at **George Mason University**, starting in 2025. 
 
 If you are interested in working with me, please send me an email with your CV. If you are already enrolled in the GMU-CS program (undergrad or MS) and want to do research in my lab, please feel free to reach out.
 
 ##### Why GMU CS?
-As of November 2024, GMU is ranked 33 in [CSRankings](https://csrankings.org/#/index?all&us). [GMU CS](https://go.gmu.edu/cs-stats) is fastly growing in the number of faculty members and is increasingly active in top-tier CS conferences.
+As of November 2024, GMU is ranked 33 in [CSRankings](https://csrankings.org/#/index?all&us). [GMU CS](https://realgmucs.github.io/stats) is fastly growing in the number of faculty members and is increasingly active in top-tier CS conferences.
