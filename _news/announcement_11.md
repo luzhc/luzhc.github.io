@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Our paper "Constructing Algorithmic Authority: How Multi-Channel Networks (MCNs) Govern Live-Streaming Labor in China" has received an *Honorable Mention Award* at CSCW 2026. Congratulations to my co-authors!
+Our paper ["Constructing Algorithmic Authority: How Multi-Channel Networks (MCNs) Govern Live-Streaming Labor in China"](https://arxiv.org/abs/2505.20623) has received an *Honorable Mention Award* at CSCW 2026. Congratulations to my co-authors!
