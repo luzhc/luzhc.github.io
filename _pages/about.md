@@ -27,4 +27,4 @@ I am looking for talented and highly motivated PhD students and RAs/interns who 
 If you are interested in working with me, please send me an email with your CV. If you are already enrolled in the GMU-CS program (undergrad or MS) and want to do research in my lab, please feel free to reach out.
 
 ##### Why GMU CS?
-As of November 2024, GMU is ranked 33 in [CSRankings](https://csrankings.org/#/index?all&us). [GMU CS](https://realgmucs.github.io/stats) is fastly growing in the number of faculty members and is increasingly active in top-tier CS conferences.
+GMU is highly ranked in [CSRankings](https://csrankings.org/#/index?all&us). [GMU CS](https://realgmucs.github.io/stats) is fastly growing in the number of faculty members and is increasingly active in top-tier CS conferences.
